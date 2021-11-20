@@ -24,3 +24,10 @@ ip=br1.readLine();
 3. During runtime execute the process
 Runtime r=Runtime.getRuntime();
 Process p=r.exec(str);
+
+OUTPUT:
+![image](https://user-images.githubusercontent.com/67230459/142727530-dc40b766-6282-46c1-b90e-0556380cd021.png)
+
+RESULT
+Thus the implementation RCE is done & executed successfully
+
